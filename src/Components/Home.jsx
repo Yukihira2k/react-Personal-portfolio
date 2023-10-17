@@ -7,7 +7,7 @@ const Home = () => {
     <div name="home" className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800">
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row ">
             <div className="flex flex-col justify-center h-full">
-                <h2 className="text-4xl sm:text-7xl font-bold text-white mt-20 sm:mt-0">I'm a Front-end Developer</h2>
+                <h2 className="text-4xl sm:text-7xl font-bold text-white mt-40 sm:mt-0">I'm a Front-end Developer</h2>
                 <p className="text-gray-500 py-4 max-w-md sm:max-w-full text-justify">
                 Hello, and thank you for visiting my online portfolio! I'm Glen Mirandilla, a recent graduate with a passion for front-end web development. I'm excited to share my journey, skills, and projects with you.
                 I'm always eager to collaborate on exciting new projects and opportunities. If you'd like to work together, have any questions, or just want to connect, please don't hesitate to reach out via email or connect with me on LinkedIn.
