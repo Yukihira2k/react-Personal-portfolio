@@ -2,6 +2,8 @@ import React from 'react'
 import Insure from '../assets/images/projects/insure-landing-page.jpg'
 import Manage from '../assets/images/projects/Manage-landing-page.jpg'
 import News from '../assets/images/projects/news-home-page.jpg'
+import Brainwave from "../assets/images/projects/Brainwave.png"
+import Sumz from "../assets/images/projects/Sumz.png"
 
 const Portfolio = () => {
 
@@ -24,6 +26,18 @@ const Portfolio = () => {
             src: News,
             link:"https://prismatic-kitten-99737d.netlify.app/",
             link2:"https://github.com/Yukihira2k/NewsLandingPage/tree/main/tailwindCSSwithReact"
+        },
+        {
+            id:4,
+            src: Brainwave,
+            link:"https://developedbyglen-brainwave.netlify.app/",
+            link2:"https://github.com/Yukihira2k/Brainwave-react-tailwind"
+        },
+        {
+            id:5,
+            src: Sumz,
+            link:"https://sumzsopenai.netlify.app/",
+            link2:"https://github.com/Yukihira2k/OpenAI-summarizer-React"
         },
     ]
 
